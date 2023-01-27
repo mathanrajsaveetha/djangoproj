@@ -215,6 +215,7 @@ urlpatterns = [
 ## OUTPUT:
 
 
+![model ex](https://user-images.githubusercontent.com/119560501/215008515-5c75d650-4da5-43e9-9910-50c7fffd4bfe.png)
 
 ## Result:
 Hence a website has been designed to perform mathematical calculations in server side.
